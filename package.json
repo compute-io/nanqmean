@@ -25,7 +25,16 @@
   "keywords": [
     "compute.io",
     "compute",
-    "computation"
+    "computation",
+    "mathematics",
+    "math",
+    "statistics",
+    "stats",
+    "quadratic mean",
+    "mean",
+    "root mean square",
+    "rms",
+    "nan"
   ],
   "bugs": {
     "url": "https://github.com/compute-io/nanqmean/issues"
