@@ -1,6 +1,6 @@
 {
   "name": "compute-nanqmean",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Computes the quadratic mean (root mean square) of an array of values ignoring any values which are not numeric.",
   "author": {
     "name": "Athan Reines",
